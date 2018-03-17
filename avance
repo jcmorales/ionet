@@ -1,0 +1,60 @@
+
+
+Juan Carlos Morales	TR41-PROTECCION EJECUTIVOS	1	01-PROTECCION EJECUTIVOS	Layout no tiene el boton de Agregar Area. El reporte tiene boton de Agregar Area	"No
+Número de empleado
+Empresa
+Municipio
+Estado"																																									
+Eduardo Rafael Berea	TR43-PRUEBAS	1	01-RECLAMO VECINOS	Reporte no tiene campo de "Observaciones/Comentarios". Reporte tiene campo "Motivo" y LayOut no lo tiene	"No
+Número de empleado
+Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	1	GENERAL/01-INCENDIO/	BOTON AGREGAR EQUIPOS DESPLIEGA CAMPOS NUMERO Y EQUIPOS, LAYOUT SOLO MUESTRA BOTON AREANUMEROEQUIPOS	No, los siguientes campos no están en orden: Nombre de quien autoriza Puesto de quien autoriza																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	2	GENERAL/02-OTRO/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	No, los siguientes campos no están en orden: Nombre de quien autoriza Puesto de quien autoriza																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	3	GENERAL/03-SISMO/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Nombre de quien autoriza 
+ Puesto de quien autoriza"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	4	PROTECCION PATRIMONIAL/04-ACCIDENTE VIAL COLABORADORES/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	5	PROTECCION PATRIMONIAL/05-NARCOMANTA/	BOTON AGREGAR EQUIPOS DESPLIEGA CAMPOS NUMERO Y EQUIPOS, LAYOUT SOLO MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	6	PROTECCION PATRIMONIAL/06-ACTIVACION ALARMA BOTON DE PANICO/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	7	PROTECCION PATRIMONIAL/07-AMENAZA DE BOMBA/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	8	PROTECCION PATRIMONIAL/08-BLOQUEO INSTALACION/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"																																									
+Viridiana Pérez	TR50-Simulacro Ensayo	9	PROTECCION PATRIMONIAL/09-INCIDENTE VIA PUBLICA/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
+Viridiana Pérez	TR50-Simulacro Ensayo	10	PROTECCION PATRIMONIAL/010-INTENTO EXTORSION SECUESTRO/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
+Viridiana Pérez	TR50-Simulacro Ensayo	11	PROTECCION PATRIMONIAL/011-INTRUSION/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
+Viridiana Pérez	TR50-Simulacro Ensayo	12	PROTECCION PATRIMONIAL/012-OTRO/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
+Viridiana Pérez	TR50-Simulacro Ensayo	13	PROTECCION PATRIMONIAL/013-ROBO CAMION/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
+Viridiana Pérez	TR50-Simulacro Ensayo	14	PROTECCION PATRIMONIAL/014-SECUESTRO COLABORADOR/	SISTEMA NO MUESTAR BOTON VS LAYOUT MUESTRA BOTON AREANUMEROEQUIPOS	"No, los siguientes campos no están en orden:
+ 
+ Número de empleado
+ Empresa"	Falta Campo Ubicacion  matriz de Ubicaciones																																								
